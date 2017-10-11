@@ -24,13 +24,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bazilio/yii2-newrelic
+php composer.phar require --prefer-dist biozahard/yii2-newrelic
 ```
 
 or add
 
 ```json
-"bazilio/yii2-newrelic": "~0.0.1"
+"biozahard/yii2-newrelic": "~0.0.1"
 ```
 
 to the require section of your composer.json.
