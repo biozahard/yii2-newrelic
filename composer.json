@@ -1,10 +1,14 @@
 {
-    "name": "bazilio/yii2-newrelic",
-    "description": "Newrelic integration for Yii2",
+    "name": "biozahard/yii2-newrelic",
+    "description": "Newrelic integration for Yii2 (Biozahard Edition)",
     "type": "yii2-extension",
     "license": "MIT",
     "keywords": ["yii2", "newrelic", "debug", "monitoring"],
     "authors": [
+        {
+            "name": "Zakharii Fesenko",
+            "email": "biozahard@gmail.com"
+        },
         {
             "name": "Vasily Ostanin",
             "email": "bazilio91@gmail.com"
@@ -17,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bazilio\\yii\\newrelic\\": ""
+            "biozahard\\yii\\newrelic\\": ""
         }
     }
 
